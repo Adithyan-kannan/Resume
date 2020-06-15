@@ -1,0 +1,15 @@
+body
+{
+  background-color: #bac964;
+}
+.head
+{
+  color:#eeeeee;
+  font-size: 50px;
+}
+.Profilepic
+{
+ border-radius:100%;
+border-width: 20px;
+height: 150px;
+}
